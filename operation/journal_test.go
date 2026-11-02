@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	core "github.com/KLORQ/sandboxes-core"
+	core "github.com/QUOINER/sandboxes-core"
 )
 
 type fakeStore struct {

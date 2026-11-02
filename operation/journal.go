@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	core "github.com/KLORQ/sandboxes-core"
+	core "github.com/QUOINER/sandboxes-core"
 )
 
 // Journal persists operation transitions.
