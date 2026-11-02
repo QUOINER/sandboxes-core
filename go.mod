@@ -1,3 +1,3 @@
-module github.com/QUOINER/sandboxes-core
+module github.com/quoiner/sandboxes-core
 
 go 1.27

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	core "github.com/QUOINER/sandboxes-core"
+	core "github.com/quoiner/sandboxes-core"
 )
 
 // Journal persists operation transitions.
