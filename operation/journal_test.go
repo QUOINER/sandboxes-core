@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	core "github.com/quoiner/sandboxes-core"
+	core "github.com/lickren/sandboxes-core"
 )
 
 type fakeStore struct {
