@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	core "github.com/lickren/sandboxes-core"
+	core "github.com/rheic/sandboxes-core"
 )
 
 // Journal persists operation transitions.
